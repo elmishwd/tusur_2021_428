@@ -7,3 +7,5 @@ What do you like more?
 6. other
 //Your answer
 //example: 428-1 - Назаркин - 5
+
+428-2 - Аристов - 3
